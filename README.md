@@ -95,7 +95,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IbrahimSemih/IbrahimSemih/output/dist/snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/IbrahimSemih/IbrahimSemih/output/snake-dark.svg" alt="snake animation" />
 </p>
 
 <p align="center"><i>⭐ If you like this profile, check out my repositories too!</i></p>
